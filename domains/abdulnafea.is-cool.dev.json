@@ -1,0 +1,16 @@
+{
+    "description": "coder abdulnafea",
+
+    "domain": "is-cool.dev",
+    "subdomain": "abdulnafea",
+
+    "owner": {
+        "email": "auf.abdulnafea@gmail.com"
+    },
+
+    "record":{
+        "NS": ["coen.ns.cloudflare.com", "peaches.ns.cloudflare.com"]
+    },
+
+    "proxied": false
+}
